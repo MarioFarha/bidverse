@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807684363672",
+    "project_id": "bidverse-f972c",
+    "storage_bucket": "bidverse-f972c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807684363672:android:908123de4aeb40199187ed",
+        "android_client_info": {
+          "package_name": "com.example.bidverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-RelrJNhZKMRn85jpNVXLALQ7h_VdIjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
